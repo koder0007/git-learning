@@ -1,2 +1,2 @@
-# git-learning
-learning git here.
+learning git in this repository.
+
